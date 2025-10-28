@@ -80,9 +80,9 @@ and open `localhost:3000`. To stop the app just go back to the terminal and pres
 ---
 
 Hope you enjoyed this project :smiley:<br>
-:wave: [Get in touch!](https://www.linkedin.com/in/tiagodiass)
+:wave: [Get in touch!](https://www.linkedin.com/in/kumar-dubbaka-4b0b4726b)
 
-### Author: Tiago Dias
+### KUMAR DUBBAKA
 
 
 
