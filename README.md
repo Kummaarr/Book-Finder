@@ -62,7 +62,7 @@ Follow the steps below to run the project in your machine, before it all, you ne
 
 ```bash
 # Clone the repo
-$ git clone https://github.com/TiagoDiass/book-finder.git
+$ git clone https://github.com/Kummaarr/Book-Finder.git
 
 # Enter in the directory
 $ cd book-finder
